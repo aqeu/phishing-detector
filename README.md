@@ -62,9 +62,3 @@ python main.py
 * **the online model is linear — it's a gentle nudge, not a replacement**
 * **not a security product — don't wire it into a production filter without a lot of validation**
 #### it's a solid exam project. it's not a commercial phishing detector. please don't treat it like one.
-
-## license
-#### MIT. do whatever u want, just don't deploy it as ur bank's phishing filter
-
-
-
